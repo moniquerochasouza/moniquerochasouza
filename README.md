@@ -7,5 +7,3 @@
 - 😀 Pronomes: ela/dela
 
 
-
-![Snake animation](https://github.com/moniquerochasouza/moniquerochasouza/blob/output/github-contribution-grid-snake.svg)
